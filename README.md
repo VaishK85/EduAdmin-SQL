@@ -19,4 +19,6 @@ This is a desktop-based College Administration System developed using Python (Tk
 - mysql-connector-python (for DB connectivity)
 
 
+## ![Admin Login](https://github.com/user-attachments/assets/a95c25a5-b920-4607-a7c4-91f02c2d8d6b)
+
 ## ![EduAdmin](https://github.com/user-attachments/assets/9538a724-57de-417b-a38c-f283c8a5972c)
