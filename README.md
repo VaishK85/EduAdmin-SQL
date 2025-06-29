@@ -1,4 +1,8 @@
-# College Administration System
+![Python](https://img.shields.io/badge/Python-3.x-blue)
+![MySQL](https://img.shields.io/badge/Database-MySQL-orange)
+![GUI](https://img.shields.io/badge/GUI-Tkinter-green)
+
+# EduAdmin-SQL
 
 This is a desktop-based College Administration System developed using Python (Tkinter) and MySQL. The application allows administrators to manage student fee records with a simple and interactive graphical user interface.
 
